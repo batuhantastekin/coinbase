@@ -8,9 +8,6 @@ The Home screen is complete which includes the Watchlist, Top Movers list, and N
 
 Next steps include building the Portfolio and Prices screen with an interactable chart component.
 
-## Demo
-https://user-images.githubusercontent.com/16995513/118372757-1dc83200-b581-11eb-8c6d-8d1d8f7df10c.MP4
-
 ## Try The App
 Try it with [Expo]
 
